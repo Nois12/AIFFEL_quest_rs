@@ -1,6 +1,8 @@
-# AIFFEL Quest Repository
+# Aiffel_quest_rs
 
-AIFFEL 과정에서 수행한 MainQuest, Exploration, GoingDeeper 프로젝트를 관리하는 레포지토리입니다.
+- AIFFEL 과정 중 진행하는 프로젝트를 관리하는 Repository입니다.
+- MainQuest, Exploration, GoingDeeper 프로젝트를 저장합니다.
+- 프로젝트별 실습 코드와 결과를 관리하며 지속적으로 업데이트합니다.
 
 ---
 
